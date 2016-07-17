@@ -1,0 +1,2 @@
+# ShoppingCart1
+Android简单的购物车实现,编码参照别人的东西去做成自己的东西

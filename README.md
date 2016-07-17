@@ -7,7 +7,7 @@ Android简单的购物车实现,编码参照别人的东西去做成自己的东
 
 结算界面
 
-![image](https://github.com/GM520/ViewPagerListViewRefresh/blob/master/imgs/3.png)
+![image](https://github.com/GM520/ShoppingCart1/blob/master/images/3.png)
 
 收货人地址界面
 

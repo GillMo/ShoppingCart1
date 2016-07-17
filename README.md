@@ -3,12 +3,11 @@ Android简单的购物车实现,编码参照别人的东西去做成自己的东
 
 购物界面
 
-![image](https://github.com/GM520/ShoppingCart1/images/2.png)
+![image](https://github.com/GillMo/ShoppingCart1/blob/master/images/2.png)
 
 结算界面
 
-![image](https://github.com/GM520/ShoppingCart1/blob/master/images/3.png)
-
+![image](https://github.com/GillMo/ShoppingCart1/blob/master/images/3.png)
 收货人地址界面
 
-![image](https://github.com/GM520/ViewPagerListViewRefresh/blob/master/imgs/1.png)
+![image](https://github.com/GillMo/ShoppingCart1/blob/master/images/1.png)

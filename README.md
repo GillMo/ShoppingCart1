@@ -13,6 +13,7 @@ public class NoScrollListView extends ListView {
    }  
 }
 
+
 购物界面
 
 ![image](https://github.com/GillMo/ShoppingCart1/blob/master/images/2.png)

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\recycle.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\recycle.png"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_icon.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\collection.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\collection.png"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    }
+]

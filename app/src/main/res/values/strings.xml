@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingCart</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="myShop">我的购物车</string>
+    <string name="updateShopNum">修改商品数量</string>
+    <string name="updateAddress">修改地址</string>
+    <string name="numberSub">-</string>
+    <string name="numberAdd">+</string>
+    <string name="shopTotalPrice">商品总价(不含运费)</string>
+    <string name="checkOut">结算</string>
+    <string name="delete">删除</string>
+    <string name="collection">收藏</string>
+    
+    <string name="sure">确定</string>
+    <string name="sureOrder">确认订单</string>
+    <string name="leaveMeassge">给卖家留言</string>
+
+</resources>

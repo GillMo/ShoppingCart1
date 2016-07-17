@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:9:9-42
+	android:theme
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.shoppingcart.MainActivity
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:13:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.shoppingcart.CheckOutActivity
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:22:9-77
+	android:name
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:22:19-75
+activity#com.example.shoppingcart.UpdateAddressActivity
+ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:23:9-82
+	android:name
+		ADDED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml:23:19-80
+uses-sdk
+INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidStudioProjects\ShoppingCart1\app\src\main\AndroidManifest.xml

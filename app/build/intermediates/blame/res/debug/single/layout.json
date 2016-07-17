@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_listview_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\checkout_listview_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\checkout_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_update.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\number_update.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checkout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\updateaddress_listview_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\updateaddress_listview_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\line_h.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\line_h.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_updateaddress.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\activity_updateaddress.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_listview_item.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\src\\main\\res\\layout\\shop_listview_item.xml"
+    },
+    {
+        "merged": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "I:\\AndroidStudioProjects\\ShoppingCart1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    }
+]

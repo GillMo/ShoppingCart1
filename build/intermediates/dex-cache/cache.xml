@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_edf9ba3924cd83ebc607d475d94b3162ef9bb8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gaomin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_96fa230acb3100022183f0deae4201c2db93a813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_59767c882a92ee25ed40824664f3b1285154faee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_830145fabf07b64c5b73cbe6ac643e63593ecf11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_a29df8243cde3a54f79753c2b620869085a40ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="I:\AndroidStudioProjects\ShoppingCart1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_36a0f793e5e95e79cfe124878b3a8153dae1f782.jar" />
+    </item>
+
+</items>

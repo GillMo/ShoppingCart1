@@ -1,0 +1,105 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/white"
+    android:orientation="vertical">
+
+	<!--顶部-->
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingLeft="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/myShop"
+            android:layout_centerInParent="true"/>
+        <CheckBox 
+            android:id="@+id/all_check"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+	<!--购物车列表-->
+    <ListView 
+        android:id="@+id/main_listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+	<!--下面隐藏的布局-->
+    <LinearLayout 
+        android:id="@+id/price_relative"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+		<!--商品总价-->
+	    <RelativeLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+			android:layout_marginBottom="5dp">
+	        <!-- 商品总价提示 -->
+	        <TextView 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/shopTotalPrice"
+	            android:layout_alignParentLeft="true"/>
+	        <!-- 选中商品的总金额 -->
+	        <TextView 
+	            android:id="@+id/shopTotalPrice"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"/>
+	    </RelativeLayout>
+
+		<!--分界线-->
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:background="@color/gray"
+			android:layout_height="2dp">
+		</RelativeLayout>
+
+		<!--删除,收藏,结算-->
+		<RelativeLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="50dp"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+	        android:layout_marginTop="5dp"
+	        android:layout_marginBottom="5dp">
+	        <TextView 
+	            android:id="@+id/delete"
+	            android:layout_width="wrap_content"
+	            android:layout_height="match_parent"
+	            android:text="@string/delete"
+	            android:drawableTop="@drawable/recycle"
+	            android:layout_alignParentLeft="true"/>
+	        <TextView 
+	            android:id="@+id/collection"
+	            android:layout_width="wrap_content"
+	            android:layout_height="match_parent"
+	            android:layout_marginLeft="10dp"
+	            android:text="@string/collection"
+	            android:drawableTop="@drawable/collection"
+	            android:layout_toRightOf="@id/delete"/>
+	        <TextView 
+	            android:id="@+id/checkOut"
+	            android:layout_width="100dp"
+	            android:layout_height="match_parent"
+	            android:text="@string/checkOut"
+	            android:background="@drawable/round_rect_bg_red"
+	            android:gravity="center"
+	            android:layout_alignParentRight="true"/>
+	    </RelativeLayout>
+    </LinearLayout>
+    
+</LinearLayout>

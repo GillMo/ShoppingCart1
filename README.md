@@ -4,7 +4,6 @@ Android简单的购物车实现,编码参照别人的东西去做成自己的东
 主要的问题解决ScrollView嵌套ListView事件冲突
 
 public class NoScrollListView extends ListView {
-
 	public NoScrollListView(Context context, AttributeSet attrs) {
 	
 		super(context,attrs);
@@ -16,9 +15,7 @@ public class NoScrollListView extends ListView {
         int mExpandSpec = MeasureSpec.makeMeasureSpec(Integer.MAX_VALUE >> 2, MeasureSpec.AT_MOST); 
         
         super.onMeasure(widthMeasureSpec, mExpandSpec);  
-        
-   }  
-   
+   } 
 }
 
 
